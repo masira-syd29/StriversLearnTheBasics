@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e987f1-4fa9-4b37-897b-589df13d7c51" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/IfElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Compiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +47,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Compiler.executor": "Run",
     "Application.DataTypes.executor": "Run",
     "Application.IfElseStatements.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
     "Application.UserInputOutput.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -87,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737519584862</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1737557590603</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737557590603</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
