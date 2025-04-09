@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e987f1-4fa9-4b37-897b-589df13d7c51" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/src/Patterns.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringsAndArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringsAndArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +44,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Compiler.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataTypes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElseStatements.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringsAndArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchStatement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserInputOutput.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Compiler.executor": "Run",
+    "Application.DataTypes.executor": "Run",
+    "Application.IfElseStatements.executor": "Run",
+    "Application.Patterns.executor": "Run",
+    "Application.StringsAndArrays.executor": "Run",
+    "Application.SwitchStatement.executor": "Run",
+    "Application.UserInputOutput.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
