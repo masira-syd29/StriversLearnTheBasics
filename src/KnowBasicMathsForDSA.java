@@ -1,4 +1,9 @@
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 import static java.lang.Math.log10;
+import static java.lang.Math.sqrt;
 
 public class KnowBasicMathsForDSA {
     public static int countDigit(int n) {
@@ -52,6 +57,31 @@ public class KnowBasicMathsForDSA {
             n = n/10;
         }
         return sum == num ? true : false;
+    }
+    public static List< Integer > printDivisors(int n) {
+        List<Integer> divisors = new ArrayList<>();
+        // Write your code here
+        for(int i=1; i<=Math.sqrt(n); i++){
+            if(n % i == 0){
+                divisors.add(i);
+                if((n/i) != i){
+                    divisors.add(n/i);
+                }
+            }
+        }
+        Collections.sort(divisors);
+        return divisors;
+    }
+    public static boolean isprime(int n){
+        if(n <= 1)
+            return false;
+        int sqrt = (int) Math.sqrt(n);
+        for(int i=2; i<=sqrt; i++){
+            if(n%i == 0){
+                return false;
+            }
+        }
+        return true;
     }
 
     public static void main(String[] args) {
