@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e987f1-4fa9-4b37-897b-589df13d7c51" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/LearnBasicRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LearnBasicHashing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Application.DataTypes.executor": "Run",
     "Application.IfElseStatements.executor": "Run",
     "Application.KnowBasicMathsForDSA.executor": "Run",
+    "Application.LearnBasicHashing.executor": "Run",
     "Application.LearnBasicRecursion.executor": "Run",
     "Application.LicensePlate.executor": "Run",
     "Application.Patterns.executor": "Run",
